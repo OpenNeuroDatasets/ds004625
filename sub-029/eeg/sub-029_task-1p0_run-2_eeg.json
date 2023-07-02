@@ -1,0 +1,18 @@
+{
+  "InstitutionAddress": "1275 Center Drive, Gainesville, Florida, USA",
+  "InstitutionName": "University of Florida",
+  "InstitutionalDepartmentName": "Department of Biomedical Engineering",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Brain Vision",
+  "TaskName": "mixed",
+  "EEGChannelCount": 120,
+  "EMGChannelCount": 8,
+  "MiscChannelCount": 182,
+  "EEGReference": "CPz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 190.05,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
