@@ -25,5 +25,8 @@
     ],
     "Acknowledgements": "Thank you to all undergraduate students who worked on Mind in Motion Project in Human Neuromechanics Lab",
     "HEDVersion": "8.1.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004625.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004625.v1.0.0",
+    "EthicsApprovals": [
+        "The study was conducted in accordance with the Declaration of Helsinki and approved by the Institutional Review Board of the University of Florida (IRB 201802227). "
+    ]
 }
