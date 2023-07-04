@@ -20,7 +20,9 @@
         "David J. Clark",
         "Daniel P. Ferris"
     ],
-    "Funding": [],
+    "Funding": [
+        "This study was supported by the National Institute of Health (U01AG061389)."
+    ],
     "Acknowledgements": "Thank you to all undergraduate students who worked on Mind in Motion Project in Human Neuromechanics Lab",
     "HEDVersion": "8.1.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds004625.v1.0.1",
